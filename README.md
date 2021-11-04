@@ -4,6 +4,10 @@ This is a Rails app configured how I like it. It's meant to be used for prototyp
 
 ## Getting started
 
+### Rename project
+
+- Find and replace instances of `RailsStarter`, `rails-starter`, and `rails_starter`.
+
 ### Set up dependencies
 
 - `bundle install`
