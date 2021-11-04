@@ -1,6 +1,6 @@
 # README
 
-This is a Rails app configured how I like it. It's meant to be used for prototyping 
+This is a Rails app configured how I like it. It's meant to be used for prototyping, proofs of concept, and experimentation.
 
 ## Getting started
 
