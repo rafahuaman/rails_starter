@@ -13,7 +13,7 @@ Things you may want to cover:
 
 ## Development Gems
 
-- standard
+- [rubocop-rails](https://github.com/rubocop/rubocop-rails) with [standard](https://github.com/testdouble/standard) rules
 - dotenv-rails
 - pry-byebug
 - pry-rails
@@ -30,3 +30,7 @@ Things you may want to cover:
 - faker
 - simplecov
 - webmock
+
+## Notes
+
+- You might need to cofnigr the text editor/IDE to work with the standard gem.
