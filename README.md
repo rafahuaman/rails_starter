@@ -1,15 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails app configured how I like it. It's meant to be used for prototyping 
 
-Things you may want to cover:
+## Getting started
 
-## Tools
+### Set up dependencies
+
+- `bundle install`
+- `yarn install`
+  
+### Set up database
+
+- `bundle exec rails db:setup`
+
+### Start the app
+
+- `hivemind Procfile.dev`
+
+## System Requirements
 
 - Ruby 3.0.2
 - Node 14.18.1
 - PostgreSQL
+- hivemind
 
 ## Development Gems
 
@@ -30,7 +43,3 @@ Things you may want to cover:
 - faker
 - simplecov
 - webmock
-
-## Notes
-
-- You might need to cofnigr the text editor/IDE to work with the standard gem.
