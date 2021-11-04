@@ -47,3 +47,8 @@ This is a Rails app configured how I like it. It's meant to be used for prototyp
 - faker
 - simplecov
 - webmock
+
+## To do
+
+- Add JS linters
+- Add JS testing tooling
