@@ -13,6 +13,7 @@ Things you may want to cover:
 
 ## Development Gems
 
+- standard
 - dotenv-rails
 - pry-byebug
 - pry-rails
