@@ -5,20 +5,26 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+## Tools
 
-* System dependencies
+- Ruby 3.0.2
+- Node 14.18.1
+- PostgreSQL
 
-* Configuration
+## Development Gems
 
-* Database creation
+- dotenv-rails
+- pry-byebug
+- pry-rails
+- annotate
+- better_errors
+- bullet
+  
+## Testing Gems
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- rspec-rails
+- shoulda-matchers
+- factory_bot_rails
+- faker
+- simplecov
+- webmock
