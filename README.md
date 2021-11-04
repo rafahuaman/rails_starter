@@ -19,6 +19,7 @@ Things you may want to cover:
 - annotate
 - better_errors
 - bullet
+- letter_opener
   
 ## Testing Gems
 

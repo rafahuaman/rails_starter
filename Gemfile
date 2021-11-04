@@ -42,6 +42,7 @@ group :development do
   gem 'binding_of_caller'
   gem 'brakeman'
   gem 'bullet'
+  gem 'letter_opener'
   gem 'listen', '~> 3.3'
   gem 'rack-mini-profiler', '~> 2.0'
   gem 'spring'
